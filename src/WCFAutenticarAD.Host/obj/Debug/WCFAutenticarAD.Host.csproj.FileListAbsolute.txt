@@ -1,0 +1,6 @@
+C:\LabNetNilson\WCFAutenticarAD\src\WCFAutenticarAD.Host\bin\WCFAutenticarAD.Host.dll.config
+C:\LabNetNilson\WCFAutenticarAD\src\WCFAutenticarAD.Host\bin\WCFAutenticarAD.Host.dll
+C:\LabNetNilson\WCFAutenticarAD\src\WCFAutenticarAD.Host\bin\WCFAutenticarAD.Host.pdb
+C:\LabNetNilson\WCFAutenticarAD\src\WCFAutenticarAD.Host\obj\Debug\WCFAutenticarAD.Host.csprojResolveAssemblyReference.cache
+C:\LabNetNilson\WCFAutenticarAD\src\WCFAutenticarAD.Host\obj\Debug\WCFAutenticarAD.Host.dll
+C:\LabNetNilson\WCFAutenticarAD\src\WCFAutenticarAD.Host\obj\Debug\WCFAutenticarAD.Host.pdb
